@@ -1,0 +1,1290 @@
+
+/* Calibri */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Calibri';
+	src: url('https://fonts.d2cmedia.ca/calibri-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/calibri-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/calibri-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/calibri-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/calibri-webfont.svg#Calibri') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-size:1em;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Calibri';
+	src: url('https://fonts.d2cmedia.ca/calibrib-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/calibrib-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/calibrib-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/calibrib-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/calibrib-webfont.svg#Calibri') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Calibri';
+	src: url('https://fonts.d2cmedia.ca/calibrii-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/calibrii-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/calibrii-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/calibrii-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/calibrii-webfont.svg#Calibri') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Antenna */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/FordAntennaWGL-Regular.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-Regular.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/FordAntennaWGL-Italic.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-RegularItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-RegularItalic.woff") format("woff");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/FordAntennaWGL-Bold.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-Bold.woff") format("woff");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url("https://fonts.d2cmedia.ca/FordAntennaWGL-BoldItalic.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-BoldItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-BoldItalic.woff") format("woff");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-weight: bolder;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Antenna-Medium.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-Medium.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-Medium.woff") format("woff");
+
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Antenna';
+	font-weight: lighter;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/FordAntennaWGL-Light.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/Antenna-Light.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Antenna-Light.woff") format("woff");
+}
+
+/* Interstate */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-Regular.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-Regular.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-Regular.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-RegularItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-RegularItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-Bold.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-Bold.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-BoldItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-BoldItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-BoldItalic.otf") format("opentype");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-weight: lighter;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-Light.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-Light.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-Light.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Interstate';
+	font-weight: lighter;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/Interstate-LightItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/Interstate-LightItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/Interstate-LightItalic.otf") format("opentype");
+}
+
+/* VW Text */
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwtext-regular-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwtext-regular-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWText-Regular.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwtext-regularitalic-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwtext-regularitalic-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWText-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwtext-bold-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwtext-bold-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWText-Bold.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url("https://fonts.d2cmedia.ca/vwtextoffice-bolditalic-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwtextoffice-bolditalic-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWTextOffice-BoldItalic.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-weight: bolder;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwheadlineot-semibold_0-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwheadlineot-semibold_0-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWHeadlineOT-Semibold_0.ttf") format("truetype");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWText';
+	font-weight: lighter;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwtext-light-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwtext-light-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWText-Light.otf") format("opentype");
+}
+
+/* VW Head */
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHead';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/vwhead-regular-webfont.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/vwhead-regular-webfont.woff') format('woff'),
+			url("https://fonts.d2cmedia.ca/VWHead-Regular.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHead';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/vwhead-regularitalic-webfont.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/vwhead-regularitalic-webfont.woff') format('woff'),
+			url("https://fonts.d2cmedia.ca/VWHead-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHead';
+	font-weight: bold;
+	font-style: normal;
+	src: url('https://fonts.d2cmedia.ca/vwhead-bold-webfont.woff2') format('woff2'),
+	url('https://fonts.d2cmedia.ca/vwhead-bold-webfont.woff') format('woff'),
+	url("https://fonts.d2cmedia.ca/VWHead-Bold.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHead';
+	font-style: bold;
+	font-weight: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/vwhead-bolditalic-webfont.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/vwhead-bolditalic-webfont.woff') format('woff'),
+			url("https://fonts.d2cmedia.ca/VWHead-BoldItalic.otf") format("opentype");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHead';
+	font-weight: bolder;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/vwhead-extrabold-webfont.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/vwhead-extrabold-webfont.woff') format('woff'),
+			url("https://fonts.d2cmedia.ca/VWHead-ExtraBold.otf") format("opentype");
+}
+
+/* VW Head Office */
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHeadOffice';
+	font-weight: normal;
+	font-style: normal;
+	src:  url("https://fonts.d2cmedia.ca/vwheadoffice-regular-webfont.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/vwheadoffice-regular-webfont.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/VWHeadOffice-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHeadOffice';
+	font-style: italic;
+	font-weight: normal;
+	src:  url("https://fonts.d2cmedia.ca/vwheadoffice-regularitalic-webfont.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/vwheadoffice-regularitalic-webfont.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/VWHeadOffice-RegularItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHeadOffice';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/vwheadoffice-bold-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwheadoffice-bold-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWHeadOffice-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'VWHeadOffice';
+	font-style: italic;
+	font-weight: bold;
+	src:
+			url("https://fonts.d2cmedia.ca/vwheadoffice-bolditalic-webfont.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/vwheadoffice-bolditalic-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/VWHeadOffice-BoldItalic.ttf") format("truetype");
+}
+
+/* Lincoln Miller B */
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnMillerB';
+	font-weight: normal;
+	font-style: normal;
+	src:  url("https://fonts.d2cmedia.ca/LincolnMillerB-Black.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/LincolnMillerB-Black.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/LincolnMillerB-Black.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnMillerB';
+	font-style: italic;
+	font-weight: normal;
+	src:  url("https://fonts.d2cmedia.ca/LincolnMillerB-Italic.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/LincolnMillerB-Italic.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/LincolnMillerB-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnMillerB';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-Bold.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnMillerB';
+	font-style: italic;
+	font-weight: bold;
+	src:
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-BlackItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-BlackItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/LincolnMillerB-BlackItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnMillerB';
+	src:
+			url('https://fonts.d2cmedia.ca/LincolnMillerB-Light.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/LincolnMillerB-Light.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/LincolnMillerB-Light.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+/* Lincoln Proxima Nova */
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnProximaNova';
+	font-weight: normal;
+	font-style: normal;
+	src:  url("https://fonts.d2cmedia.ca/LincolnProximaNova.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/LincolnProximaNova.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/LincolnProximaNova.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnProximaNova';
+	font-style: italic;
+	font-weight: normal;
+	src:  url("https://fonts.d2cmedia.ca/LincolnProximaNova-Italic.woff2") format("woff2"),
+	url("https://fonts.d2cmedia.ca/LincolnProximaNova-Italic.woff") format("woff"),
+	url("https://fonts.d2cmedia.ca/LincolnProximaNova-Italic.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnProximaNova';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-Bold.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnProximaNova';
+	font-style: italic;
+	font-weight: bold;
+	src:
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-BoldItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-BoldItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/LincolnProximaNova-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LincolnProximaNova';
+	src:
+			url('https://fonts.d2cmedia.ca/LincolnProximaNovaLight.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/LincolnProximaNovaLight.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/LincolnProximaNovaLight.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+
+/* Roboto */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Roboto';
+	src: url('https://fonts.d2cmedia.ca/Roboto-Regular-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Regular-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/Roboto-Regular-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Regular-webfont.svg#Roboto') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Roboto';
+	src: url('https://fonts.d2cmedia.ca/Roboto-BoldItalic-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/Roboto-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/Roboto-BoldItalic-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/Roboto-BoldItalic-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/Roboto-BoldItalic-webfont.svg#RobotoBlackItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Roboto';
+	src: url('https://fonts.d2cmedia.ca/Roboto-Bold-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Bold-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/Roboto-Bold-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Bold-webfont.svg#RobotoBold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Roboto';
+	src: url('https://fonts.d2cmedia.ca/Roboto-Light-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Light-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/Roboto-Light-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/Roboto-Light-webfont.svg#RobotoLight') format('svg');
+	font-weight: lighter;
+	font-style: normal;
+
+}
+
+/* Design KB */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Designkb';
+	src: url('https://fonts.d2cmedia.ca/designkb-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/designkb-webfont.eot?#iefix') format('embedded-opentype'),
+	url('https://fonts.d2cmedia.ca/designkb-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/designkb-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Designkb';
+	src:
+			url("https://fonts.d2cmedia.ca/designkb-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/designkb-webfont-bold.ttf") format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Designkb';
+	src:
+			url("https://fonts.d2cmedia.ca/designkl-webfont.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/designkl-webfont-light.ttf") format("truetype");
+	font-weight: lighter;
+	font-style: normal;
+}
+
+/* Design KM */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Designkm';
+	src: url('https://fonts.d2cmedia.ca/designkm-webfont.eot');
+	src: url('https://fonts.d2cmedia.ca/designkm-webfont.eot?#iefix') format("eot"),
+	url('https://fonts.d2cmedia.ca/designkm-webfont.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/designkm-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Designkm';
+	src: url('https://fonts.d2cmedia.ca/designkm-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/designkm-webfont-medium.ttf') format('truetype');
+	font-weight: medium;
+	font-style: normal;
+}
+
+/* Mercedes Benz */
+
+@font-face {
+	font-display: swap;
+	font-family: 'mercedes_benz';
+	src: url('https://fonts.d2cmedia.ca/mercedes_benz-webfont.woff2') format('woff2'),
+	url('https://fonts.d2cmedia.ca/mercedes_benz-webfont.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/mercedes_benz.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Source Sans */
+
+@font-face {
+	font-display: swap;
+	font-family: "SourceSansPro";
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-regular-webfont.eot);
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-regular-webfont.eot?#iefix) format("eot"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-regular-webfont.woff) format("woff"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-regular-webfont.ttf) format("truetype"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-regular-webfont.svg#source_sans_proregular) format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "SourceSansPro";
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-bold-webfont.eot);
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-bold-webfont.eot?#iefix) format("eot"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-bold-webfont.woff) format("woff"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-bold-webfont.ttf) format("truetype"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-bold-webfont.svg#source_sans_probold) format("svg");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "SourceSansPro";
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-light-webfont.eot);
+	src: url(https://fonts.d2cmedia.ca/sourcesanspro-light-webfont.eot?#iefix) format("eot"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-light-webfont.woff) format("woff"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-light-webfont.ttf) format("truetype"),
+	url(https://fonts.d2cmedia.ca/sourcesanspro-light-webfont.svg#source_sans_prolight) format("svg");
+	font-weight: 100;
+	font-style: normal;
+
+}
+
+/* Audi */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Audi';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/AudiType-Normal.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/AudiType-Normal.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/AudiTypeV03-Normal.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Audi';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/AudiType-ExtendedItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/AudiType-ExtendedItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/AudiTypeV03-Italic.otf") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Audi';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/AudiType-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/AudiType-Bold.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/AudiTypeV03-Bold") format("opentype");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Audi';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url("https://fonts.d2cmedia.ca/AudiType-ExtendedBoldItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/AudiType-ExtendedBoldItalic.woff") format("woff"),
+			url("https://fonts.d2cmedia.ca/AudiTypeV03-ExtendedBoldItalic.otf") format("opentype");
+}
+
+/* Porsche */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-Regular.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Regular.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Regular.woff") format("woff");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	font-style: italic;
+	font-weight: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-Italic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Italic.woff") format("woff");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-Bold.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Bold.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-BoldItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-BoldItalic.woff") format("woff");
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-Thin.otf") format("opentype"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Thin.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-Thin.woff") format("woff");
+
+	font-weight: lighter;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Porsche';
+	src:
+			url("https://fonts.d2cmedia.ca/PorscheNext-ThinItalic.woff2") format("woff2"),
+			url("https://fonts.d2cmedia.ca/PorscheNext-ThinItalic.woff") format("woff");
+
+	font-weight: lighter;
+	font-style: italic;
+}
+
+/* Oswald */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Oswald';
+	src: url('https://fonts.d2cmedia.ca/Oswald.eot');
+	src: url('https://fonts.d2cmedia.ca/Oswald.woff') format('woff'), url('https://fonts.d2cmedia.ca/Oswald.ttf') format('truetype'), url('https://fonts.d2cmedia.ca/Oswald.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'OswaldBold';
+	src: url('https://fonts.d2cmedia.ca/OswaldBold.eot');
+	src: url('https://fonts.d2cmedia.ca/OswaldBold.woff') format('woff'), url('https://fonts.d2cmedia.ca/OswaldBold.ttf') format('truetype'), url('https://fonts.d2cmedia.ca/OswaldBold.svg') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* MazdaType */
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-Regular.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Regular.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Regular.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Regular.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Regular.svg#MazdaType-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-Bold.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Bold.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Bold.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Bold.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Bold.svg#MazdaType-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-BoldItalic.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-BoldItalic.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-BoldItalic.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-BoldItalic.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-BoldItalic.svg#MazdaType-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-Italic.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Italic.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Italic.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Italic.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Italic.svg#MazdaType-Italic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-Medium.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Medium.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Medium.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Medium.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-Medium.svg#MazdaType-Medium') format('svg');
+	font-weight: bolder;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MazdaType';
+	src:
+			url('https://fonts.d2cmedia.ca/MazdaType-MediumItalic.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-MediumItalic.otf')  format('opentype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-MediumItalic.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/MazdaType-MediumItalic.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/MazdaType-MediumItalic.svg#MazdaType-MediumItalic') format('svg');
+	font-weight: bolder;
+	font-style: italic;
+}
+
+/* Showroom */
+
+@font-face {
+	font-display: swap;
+	font-family: 'showroom';
+	src: 	local('showroom'),
+	url('https://fonts.d2cmedia.ca/webfonts/showroom.woff2') format('woff2'),
+	url('https://fonts.d2cmedia.ca/webfonts/showroom.ttf') format('truetype'),
+	url('https://fonts.d2cmedia.ca/webfonts/showroom.woff') format('woff'),
+	url('https://fonts.d2cmedia.ca/webfonts/showroom.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Avenir */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Avenir';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Light.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Light.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Light.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Avenir';
+	font-weight: normal;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-LightOblique.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-LightOblique.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-LightOblique.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Avenir';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Black.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Black.woff2') format('woff'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-Black.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Avenir';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-BlackOblique.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-BlackOblique.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/AvenirLTStd-BlackOblique.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'ApexNewBook';
+	src: url('https://fonts.d2cmedia.ca/apex-new-book-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Montserrat */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-Regular.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-regular-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-regular-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-regular-webfont.svg#montserratregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-Bold.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-bold-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-bold-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-bold-webfont.svg#montserratbold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-BoldItalic.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-bolditalic-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-bolditalic-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-bolditalic-webfont.svg#montserratbold_italic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-Italic.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-regularitalic-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-regularitalic-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-regularitalic-webfont.svg#montserratitalic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-Medium.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-medium-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-medium-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-medium-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-medium-webfont.svg#montserratmedium') format('svg');
+	font-weight: bolder;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Montserrat';
+	src:
+			url('https://fonts.d2cmedia.ca/Montserrat-MediumItalic.woff2') format('woff2'),
+			url('https://fonts.d2cmedia.ca/montserrat-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/montserrat-mediumitalic-webfont.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/montserrat-mediumitalic-webfont.ttf')  format('truetype'),
+			url('https://fonts.d2cmedia.ca/montserrat-mediumitalic-webfont.svg#montserratmedium_italic') format('svg');
+	font-weight: bolder;
+	font-style: italic;
+}
+
+
+/* MMC */
+
+@font-face {
+	font-display: swap;
+	font-family: 'MMC';
+	src:
+			url('http://fonts.d2cmedia.ca/MMC-Regular.eot?#iefix') format('embedded-opentype'),
+			url('http://fonts.d2cmedia.ca/MMC-Regular.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/MMC-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MMC';
+	src:
+			url('http://fonts.d2cmedia.ca/MMC-Medium.eot?#iefix') format('embedded-opentype'),
+			url('http://fonts.d2cmedia.ca/MMC-Medium.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/MMC-Medium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'MMC';
+	src:
+			url('http://fonts.d2cmedia.ca/MMC-Bold.eot?#iefix') format('embedded-opentype'),
+			url('http://fonts.d2cmedia.ca/MMC-Bold.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/MMC-Bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* Hyundai */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Hyundai';
+	src:
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Regular.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Regular.ttf') format('truetype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Regular.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Hyundai';
+	src:
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Medium.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Medium.ttf') format('truetype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Medium.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Medium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Hyundai';
+	src:
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Bold.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Bold.ttf') format('truetype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Bold.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Hyundai';
+	src:
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Light.eot?#iefix') format('embedded-opentype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Light.ttf') format('truetype'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Light.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/HyundaiSansHead-Light.woff2') format('woff2');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+/* BMW */
+
+@font-face {
+	font-display: swap;
+	font-family: 'BMW';
+	src:
+			url('https://fonts.d2cmedia.ca/BMW-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'BMW';
+	src:
+			url('https://fonts.d2cmedia.ca/BMW-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* National (Honda) */
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/National-Regular.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: normal;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/National-RegularItalic.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/National-Bold.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/National-BoldItalic.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: lighter;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/National-Light.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: lighter;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/National-LightItalic.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: 600;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/National-Medium.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'National';
+	font-weight: 600;
+	font-style: italic;
+	src:
+			url('https://fonts.d2cmedia.ca/National-MediumItalic.otf') format('opentype'),
+			url('https://fonts.d2cmedia.ca/National-MediumItalic.ttf') format('truetype');
+}
+
+/* Lander Rover */
+
+@font-face {
+	font-display: swap;
+	font-family: 'LandRover';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/LandRoverWeb-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'LandRover';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/LandRoverWeb-Light.ttf') format('truetype');
+}
+
+/* Nissan */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Nissan';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('http://fonts.d2cmedia.ca/NissanBrandBold.woff2') format('truetype'),
+			url('http://fonts.d2cmedia.ca/NissanBrandBold.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Nissan';
+	font-weight: normal;
+	font-style: italic;
+	src:
+			url('http://fonts.d2cmedia.ca/NissanBrandItalic.woff2') format('truetype'),
+			url('http://fonts.d2cmedia.ca/NissanBrandItalic.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Nissan';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('http://fonts.d2cmedia.ca/NissanBrandRegular.woff2') format('truetype'),
+			url('http://fonts.d2cmedia.ca/NissanBrandRegular.otf') format('opentype');
+}
+
+/* Jaguar */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Jaguar';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/jaguar-regular.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/jaguar-regular.ttf') format('truetype');
+
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Jaguar';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('https://fonts.d2cmedia.ca/jaguar-bold.woff') format('woff'),
+			url('https://fonts.d2cmedia.ca/jaguar-bold.ttf') format('truetype');
+
+}
+
+/* Gotham */
+
+@font-face {
+	font-display: swap;
+	font-family: 'Gotham';
+	font-weight: normal;
+	font-style: normal;
+	src:
+			url('http://fonts.d2cmedia.ca/GOTHAM-Light.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/GOTHAM-Light.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Gotham';
+	font-weight: normal;
+	font-style: italic;
+	src:
+			url('http://fonts.d2cmedia.ca/GOTHAM-LightItalic.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/GOTHAM-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Gotham';
+	font-weight: bold;
+	font-style: normal;
+	src:
+			url('http://fonts.d2cmedia.ca/GOTHAM-Medium.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/GOTHAM-Medium.otf') format('opentype');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Gotham';
+	font-weight: bold;
+	font-style: italic;
+	src:
+			url('http://fonts.d2cmedia.ca/GOTHAM-MediumItalic.woff') format('woff'),
+			url('http://fonts.d2cmedia.ca/GOTHAM-MediumItalic.otf') format('opentype');
+}

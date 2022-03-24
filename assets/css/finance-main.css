@@ -1,0 +1,278 @@
+.-left {float:left!important;}
+.-right {float:right}
+.-small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em!important;}
+.-large {font-size:1.2em;line-height:2.5em;margin-bottom:1.25em!important;}
+.-hide {display:none!important;}
+.-quiet {color:#666!important;}
+.-loud {color:#000000!important;}
+.-highlight {background:#ff0!important;}
+.-added {background:#060;color:#fff!important;}
+.-removed {background:#900;color:#fff!important;}
+.-push-first {margin-left:0;padding-left:0!important;}
+.-push-last {margin-right:0;padding-right:0!important;}
+.-push-left {margin-top:0;padding-top:0!important;}
+.-push-bottom {margin-bottom:0;padding-bottom:0!important;}
+.-noborder {border:0!important;}
+.-nodecoration, .-no-text-decoration, .-notext-decoration {text-decoration:none!important;}
+
+.-text-uppercase, .-uppercase {text-transform:uppercase!important;}
+.-text-lowercase, .-lowercase {text-transform:lowercase!important;}
+
+.-hidden { display: none; }
+
+.-text-bold,.bold, .-bold{font-weight:bold!important;}
+.-text-normal,.normal{font-weight:normal!important;}
+.-align-top {vertical-align:top!important;}
+.-align-middle {vertical-align:middle!important;}
+
+.-line-h1{   line-height: 1em; }
+.-line-h2{   line-height: 2em; }
+.-bottom0{
+	bottom:0;
+}
+.-bottom0-important{
+	bottom:0!important;
+}
+
+.Porsche2{
+	clear:both;
+}
+
+.black-text {
+	color: #000000;
+}
+
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+	padding-top: 1px;
+
+	color: #a9a9a9;
+	opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	color: #a9a9a9;
+
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+	color: #a9a9a9;
+
+}
+
+
+#carTitle .fa-chevron-right,
+.Specifications .fa-chevron-right
+{
+	border-radius: 30px;
+	width: 20px;
+	height: 25px;
+	padding-top: 4px;
+	padding-left: 9px;
+	float: left;
+	margin-top: 8px;
+	font-size: 22px;
+	border: 1px solid #ffffff;
+	background-color: #333333;
+	color:#ffffff ;
+	margin-right: 10px;
+}
+
+.Specifications .fa-chevron-right{
+	margin-top: 1px;
+}
+
+#carTitle .makeModelYear{
+	font-size: 25px;
+}
+
+#carTitle .dealerLcationCarTitle {
+	font-weight: normal;
+	color: #9c9c9c;
+	font-size: 18px;
+	letter-spacing: -1px;
+}
+
+.carTitle .fa-chevron-right{
+	border-radius: 30px;
+	width: 20px;
+	height: 25px;
+	padding-top: 4px;
+	padding-left: 9px;
+	float: left;
+	margin-top: 8px;
+	font-size: 22px;
+	border: 1px solid #ffffff;
+	background-color: #333333;
+	color:#ffffff ;
+	margin-right: 10px;
+}
+
+.carTitle .makeModelYear{
+	font-size: 23px;
+}
+
+.carTitle .dealerLcationCarTitle {
+	font-weight: normal;
+	color: #9c9c9c;
+	font-size: 15px;
+	letter-spacing: -1px;
+}
+
+#SearchTitle .fa-chevron-right{
+	border-radius: 30px;
+	width: 31px;
+	height: 41px;
+	padding-top: 5px;
+	padding-left: 14px;
+	float: left;
+	margin-top: 8px;
+	font-size: 35px;
+	border: 1px solid #ffffff;
+	background-color: #333333;
+	color:#ffffff ;
+	margin-right: 10px;
+}
+
+#SearchTitle .dealerLcationCarTitle {
+	font-weight: normal;
+	color: #9c9c9c;
+	font-size: 16px;
+	letter-spacing: -1px;
+	margin-left: 45px;
+	display: block;
+}
+
+.ui-state-default .ui-icon {
+	background-image: url(../js/calendarui/images/ui-icons_454545_256x240.png)!important;
+}
+
+
+.ui-multiselect-checkboxes label input {
+	position: relative;
+	top: 1px;
+	margin-right: 8px;
+	height: 13px;
+
+}
+
+
+.ui-widget,.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus,
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	background: #fff!important;
+	color: #555;
+	font-size: 15px!important;
+
+}
+
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	padding: 8px 10px!important;
+}
+
+.ui-multiselect-checkboxes li{
+	font-size: 15px!important;
+}
+
+.ui-corner-all{
+	border-radius: 0px!important;
+}
+
+.-collapse{
+	border-collapse: collapse;
+}
+
+.-li{
+	list-style-type: none;
+}
+
+.-no-shadow, .-shadow0, .-noshadow{
+	box-shadow: none!important;
+}
+
+.-underline{
+	text-decoration: underline!important;
+}
+
+.-top0{
+	top:0;
+}
+
+
+.-text-left{text-align:left!important;}
+.-text-right{text-align:right!important;}
+.-text-center{text-align:center!important;}
+.-text-red, .-red-text{color:red!important;}
+
+.-block{display:block!important;}
+.-inline-block{display:inline-block!important;}
+.-none, .-hidden, .-hidde {display:none!important;}
+.-inline {display:inline!important;}
+
+.-color1 { color:#575757!important;}
+
+.-title1 {
+	font-size:23px!important;
+	font-color: #000000 !important;
+	text-decoration:none!important;
+}
+
+
+.-input {
+	font-size: 13px;
+	line-height: 15px;
+	vertical-align: middle;
+	height: 32px;
+	color: #404040;
+	padding: 0px 6px!important;
+	margin: 0px;
+	outline: none;
+	min-height: 20px;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.-input:focus, .-input:hover{
+	border-color: #80bdff !important;
+	box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+
+/* position */
+.-position-static, .-pos-static, .-pos-stat {position:static!important;}
+.-position-absolute, .-pos-absolute, .-pos-abs {position:absolute!important;}
+.-position-fixed, .-pos-fixed, .-pos-fix {position:fixed!important;}
+.-position-relative, .-pos-relative, .-pos-rel {position:relative!important;}
+.-position-inherit, .-pos-inherit, .-pos-inh {position:inherit!important;}
+
+/* forms.css  @in progress * /
+input[type=text], input[type=password], input[type=url], input[type=email], input.text, input.title, textarea {background-color:#fff;border:1px solid #bbb;color:#000!important;}
+input[type=text]:focus, input[type=password]:focus, input[type=url]:focus, input[type=email]:focus, input.text:focus, input.title:focus, textarea:focus {border-color:#666!important;}
+select {background-color:#fff;border-width:1px;border-style:solid!important;}
+input[type=text], input[type=password], input[type=url], input[type=email], input.text, input.title, textarea, select {margin:0.5em 0!important;}
+input.text, input.title {width:300px;padding:5px!important;}
+input.title {font-size:1.5em!important;}
+textarea {width:390px;height:250px;padding:5px!important;}
+form.inline {line-height:3!important;}
+form.inline p {margin-bottom:0!important;}
+*/
+
+-lh-1-3, -line-height-1-3{
+	line-height: 1.3;
+}
+
+-lh-20{
+	line-height: 20px;
+}
+
+/* Validation */
+.-error, .-alert, .-notice, .-success, .-info {padding:0.8em;margin-bottom:1em;border:2px solid #ddd!important;}
+.-error, .-alert {background:#fbe3e4;color:#8a1f11;border-color:#fbc2c4!important;}
+.-notice {background:#fff6bf;color:#514721;border-color:#ffd324!important;}
+.-success {background:#e6efc2;color:#264409;border-color:#c6d880!important;}
+.-info {background:#d5edf8;color:#205791;border-color:#92cae4!important;}
+.-error a, .alert a {color:#8a1f11!important;}
+.-notice a {color:#514721!important;}
+.-success a {color:#264409!important;}
+.-info a {color:#205791!important;}

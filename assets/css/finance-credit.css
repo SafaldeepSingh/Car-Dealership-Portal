@@ -1,0 +1,133 @@
+.credit_form_header {
+	text-tranform: uppercase;
+	width: 617px;
+	height: auto;
+	float: left;
+	background: url(../images/shadw.png) center bottom no-repeat;
+	padding: 17px 0;
+	font-size: 22px;
+	color: #242424
+}
+
+.credit_form_header .cfh_required {
+	text-align: right;
+	font-size: 14px;
+	color: #242424;
+	float: right
+}
+
+.credit_form_header .cfh_required strong {
+	font-size: 22px;
+	color: #ff0101
+}
+
+#financeAltDisplay #FinanceTestimonials {
+	background: 0
+}
+
+#FinanceTestimonials {
+	margin-top: 10px;
+	width: 960px;
+	height: 346px;
+	background: #fff;
+	position: relative;
+	overflow: hidden
+}
+
+#FinanceTestimonials > ul {
+	z-index: 1;
+	width: 50000px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+
+#FinanceTestimonials a.prv, #FinanceTestimonials a.nxt {
+	z-index: 3;
+	position: absolute;
+	display: block;
+	text-indent: -2000em;
+	height: 346px;
+	width: 40px
+}
+
+#FinanceTestimonials a.prv {
+	top: 0;
+	left: 5px;
+	background: url('../images/pre.png') no-repeat center center
+}
+
+#FinanceTestimonials a.prv:hover {
+	background-image: url('../images/pre_hover.png')
+}
+
+#FinanceTestimonials a.nxt {
+	left: 912px;
+	background: url('../images/next.png') no-repeat center center
+}
+
+#FinanceTestimonials a.nxt:hover {
+	background-image: url('../images/next_hover.png')
+}
+
+#FinanceTestimonials > ul > li {
+	float: left;
+	height: 300px;
+	width: 400px;
+	padding: 0;
+	background: #d0d0d0;
+	top: 0
+}
+
+#FinanceTestimonials > ul > li.first {
+	margin: 15px 10px 15px 70px
+}
+
+#FinanceTestimonials > ul > li.second {
+	margin: 15px 70px 15px 10px
+}
+
+#FinanceTestimonials > ul > li:hover {
+	background: #dedede
+}
+
+#FinanceTestimonials > ul > li img.author-pic {
+	width: 100px;
+	float: right;
+	margin: 16px
+}
+
+#FinanceTestimonials > ul > li > * {
+	cursor: default
+}
+
+#FinanceTestimonials > ul > li > h5 {
+	font-weight: normal;
+	margin: 16px 10px 8px 10px
+}
+
+#FinanceTestimonials > ul > li > span {
+	font-weight: bold;
+	display: block;
+	margin: 10px 10px 10px 10px
+}
+
+#FinanceTestimonials > ul > li > p {
+	font-style: italic;
+	padding: 20px;
+	text-align: justify
+}
+
+.credit-consent__container {
+	display: flex;
+	padding: 0 .7rem;
+	font-size: .8rem;
+	color: #242424
+}
+
+.credit-consent__container div:not(:first-of-type) {
+	margin-left: .7rem
+}

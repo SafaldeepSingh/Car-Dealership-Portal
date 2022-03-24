@@ -1,0 +1,134 @@
+/*	--------------------------------------------------
+	Reveal Modals
+	-------------------------------------------------- */
+
+.reveal-modal-bg {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background: #000;
+	background: rgba(0,0,0,.8);
+	z-index: 1112;
+	display: none;
+	top: 0;
+	left: 0;
+}
+
+.reveal-modal {
+	visibility: hidden;
+	top: -1000px;
+	width: 520px;
+	background: #eee url(../images/modal-gloss.png) no-repeat -200px -80px;
+	background-color: #eee;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	z-index: 35145;
+	padding: 30px 40px 34px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
+	-box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+
+.reveal-model-do-not-show {
+	visibility: hidden;
+	top: 100px;
+	/*left: 50%;
+	margin-left: -400px;*/
+	width: 520px;
+	position: absolute;
+	z-index: 35145;
+	padding: 30px 40px 34px;
+	background:none;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	-box-shadow: none;
+}
+
+.reveal-modal.small 		{ width: 200px;}
+.reveal-modal.medium 		{ width: 400px;}
+.reveal-modal.large 		{ width: 600px;}
+.reveal-modal.xlarge 		{ width: 800px;}
+
+.reveal-modal .close-reveal-modal {
+	font-size: 22px;
+	line-height: .5;
+	position: absolute;
+	top: 9px;
+	right: 10px;
+	color: #aaa;
+	text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+	font-weight: bold;
+	cursor: pointer;
+
+}
+
+.close-reveal-modal.modal-close-hide {
+	display:none;
+}
+
+.reveal-modal span {
+	padding: 0px;
+	font-size: 24px;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-left: 60px;
+	padding-left: 30px;
+	color:#414141;
+
+}
+.reveal-modal span.success {
+	background: url(../images/circle-green-24-ns.png) no-repeat scroll left center transparent;
+}
+.reveal-modal span.fail {
+	background: url(../images/circle-red-24-ns.png) no-repeat scroll left center transparent;
+}
+.reveal-modal p {
+	margin: 0 ;
+	font-size:15px;
+	color:#414141;
+}
+
+.popup-dom-nowrapper {
+	background: none !important;
+	box-shadow: none;
+}
+
+/* Fixes display of FB Like button in IE
+.fb-like span {width:450px !important; height: 362px !important;}
+.fb-like iframe {width:450px !important; height: 362px !important;}
+*/
+@media only screen and (max-device-width: 480px) {
+	.reveal-modal, .reveal-model-do-not-show  {
+		top: 10px;
+		z-index: 99999;
+	}
+
+	.reveal-modal .close-reveal-modal {
+		font-size: 30px;
+		line-height: 0.6;
+		right: 5px;
+		top: 2px;
+	}
+}
+
+.email-consent-box .title-txt{
+	margin-left: 0;
+	padding: 0;
+}
+
+.email-consent-box{
+	background-color: #eee;
+	color: #414141;
+}
+
+.email-consent-box .icon-title{
+	text-align: center;
+}

@@ -1,0 +1,393 @@
+
+/*Global vars*/
+:root{
+	--tab-color:#333333;
+	--tab-text-color:#ffffff;
+	--promo-color:#cc0000;
+	--promo-text-color:#ffffff;
+	--newsrp-model-color: #000000;
+	--footer-link-title-col: #eeeeee;
+	--footer-items-link-color: #eeeeee;
+
+	--white:#fff;
+	--light:#f6f6f6;
+	--light-gray:#efefef;
+	--mid-gray:#ddd;
+	--gray:#999;
+	--dark-gray:#666;
+	--black-gray:#333;
+	--black:#000;
+
+	--border-thin:1px;
+	--border-thick:2px;
+}
+/*Global vars*/
+
+/* LAYOUT COMPONENTS
+  !!! DO NOT MODIFY ANYTHING IN THIS SECTION !!!
+*/
+
+
+stack-lc {
+	--space: 0.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+stack-lc > * {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+stack-lc > * + * {
+	margin-top: var(--space);
+}
+
+box-lc {
+	--border-thin: 1px;
+	--space: 0.5rem;
+	--color-light: #fff;
+	--color-dark: #000;
+	padding: var(--space);;
+	border: var(--border-thin) solid;
+	outline: var(--border-thin) transparent;
+	outline-offset: calc(var(--border-thin) * -1);
+	color: var(--color-dark);
+	background-color: var(--color-light);
+}
+
+box-lc * {
+	color: inherit;
+}
+
+box-lc.invert {
+	color: var(--color-light);
+	background-color: var(--color-dark);
+}
+
+.glass-box{
+	border:none;
+	background: none;
+	background-color: transparent;
+	color: inherit;
+}
+
+.flex-box{
+	display: flex;
+}
+
+.shadow-box{
+	box-shadow: 0 0 10px 2px var(--mid-gray);
+	border-color: var(--light-gray);
+}
+
+
+group-lc {
+	--space: 0.5rem;
+}
+
+group-lc > * {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin: calc(var(--space) / 2 * -1);
+}
+
+group-lc > * > * {
+	margin: calc(var(--space) / 2);
+}
+
+.--space-o{--space: 0rem;}
+.--space-xxs{--space: 0.05rem;}
+.--space-xs{--space: 0.15rem;}
+.--space-s{--space: 0.25rem;}
+.--space-sr{--space: 0.33rem;}
+.--space-rs{--space: 0.5rem;}
+.--space-l{--space: 0.75rem;}
+.--space-lr{--space: 0.84rem;}
+.--space-xl{--space: 1rem;}
+.--space-xxl{--space: 1.5rem;}
+
+.flex-auto > *{
+	flex:1 1 auto;
+}
+
+.flex-equal > *{
+	flex:1 1;
+}
+
+.align-center {
+	align-items:center;
+}
+
+.align-start{
+	align-items: flex-start;
+}
+
+.align-end{
+	align-items: flex-end;
+}
+
+
+.flex-around{
+	justify-content: space-around;
+}
+
+.flex-between{
+	justify-content: space-between;
+}
+
+.flex-center{
+	justify-content: center;
+}
+
+.shrink-grow{
+	flex:1 1;
+}
+/* LAYOUT COMPONENTS END */
+.-p0    {padding: 0;}
+.-pb0    {padding-bottom: 0;}
+.-pv0    {padding-top:0;padding-bottom:0}
+.-ph0    {padding-left:0;padding-right:0}
+
+.-w-full {width:100vw;}
+.-w-100 {width: 100%;}
+.-w-50 {width: 50%;}
+.-w-33 {width: 33.33%;}
+.-w-25 {width: 25%;}
+
+.-fs-xxs{font-size: 0.15rem;}
+.-fs-xs{font-size: 0.5rem;}
+.-fs-s{font-size: 0.75rem;}
+.-fs-sr{font-size: 0.9rem;}
+.-fs-lr{font-size: 1.1rem;}
+.-fs-l{font-size: 1.25rem;}
+.-fs-xl{font-size: 1.5rem;}
+.-fs-xxl{font-size: 2rem;}
+
+.-fw1 {font-weight: 100;}
+.-fw2 {font-weight: 200;}
+.-fw3 {font-weight: 300;}
+.-fw4 {font-weight: 400;}
+.-fw5 {font-weight: 500;}
+.-fw6 {font-weight: 600;}
+.-fw7 {font-weight: 700;}
+.-fw8 {font-weight: 800;}
+.-fw9 {font-weight: 900;}
+.-bold {font-weight: bold;}
+
+.txt-red {color:#cc0000;}
+.txt-center{text-align: center;}
+.txt-upper{text-transform: uppercase;}
+
+/* Utility classes */
+.-bg-white{
+	background-color: var(--white);
+	color: var(--dark-gray);
+}
+.-bg-gray{
+	background-color: var(--dark-gray);
+	color: var(--white);
+}
+
+.-bg-black-gray{
+	background-color: var(--black-gray);
+	color: var(--white);
+}
+
+.-bg-black{
+	background-color: var(--black);
+	color: var(--white);
+}
+
+
+.-bg-light{
+	background-color: var(--light);
+	color: var(--black);
+}
+
+.-bg-light-gray{
+	background-color: var(--light-gray);
+	color: var(--black);
+}
+
+.-bg-none{background: transparent;}
+
+.-round{
+	border-radius:0.3rem;
+}
+
+.push-down{
+	position: absolute;
+	bottom:0px;
+}
+
+
+.price-main{
+	color:#ff0000;
+}
+
+.price-strike{
+	color:#999;
+	text-decoration: line-through;
+}
+
+
+.price-en,
+.price-fr{
+	text-align: right;
+	min-width:6ch;
+}
+
+.price-en:before{
+	content: "$";
+	font-size: 0.6em;
+	vertical-align: top;
+}
+
+.price-fr:after{
+	content: "$";
+	font-size: 0.6em;
+	vertical-align: top;
+}
+
+.scratch-over,
+.scratch-lease{
+	position: relative;
+}
+
+.scratch-over:before,
+.scratch-lease:before{
+	background: none repeat scroll 0 0 black;
+	content: " ";
+	height: 2px;
+	left: -2%;
+	position: absolute;
+	top: 45%;
+	-moz-transform: rotate(7deg);
+	-webkit-transform: rotate(7deg);
+	transform: rotate(7deg);
+	width: 76%;
+}
+
+.blur-over,
+.blur-lease {
+	-webkit-filter: blur(0.15em);
+	-moz-filter: blur(0.15em);
+	-ms-filter: blur(0.15em);
+	-o-filter: blur(0.15em);
+}
+.out-view{
+	position: fixed;
+	top: -20px;
+	color: rgba(255,255,255,0);
+	z-index: 0;
+}
+
+/* BRANDING AND THEMING */
+.main-colors{
+	background-color: var(--tab-color);
+	color: var(--tab-text-color);
+}
+
+.promo-colors{
+	background-color: var(--tab-color);
+	background-color: var(--promo-color);
+	color: var(--tab-text-color);
+	color: var(--promo-text-color);
+}
+
+/**/
+
+
+/* NEW CAR CARD*/
+
+.newCarCard img{
+	width:100%;
+}
+
+.vehicleCarousel .newCarCard{
+	background-color: var(--white);
+	width: 23.7rem;
+	border: 1px solid #bbb;
+	margin: 0 0.4rem;
+	height: 100%
+}
+
+.newCarCard .promo-badge{
+	height: fit-content;
+	min-width:6rem;
+}
+
+.newCarCard:hover{
+	box-shadow: 0 0 10px 2px var(--mid-gray);
+	background-color: var(--light-gray);
+}
+
+.newCarCard > box-lc{
+	margin-top:0;
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.newCarCard > box-lc:first-child{
+	padding-top:0.5rem;
+}
+
+.newCarCard > box-lc:last-child{
+	padding:0.5rem;
+	background-color: var(--light-gray);
+}
+
+
+/**/
+
+/*DWP-7739 START*/
+.animated-triangle {
+	position: relative;
+	margin-right: 10px;
+}
+.animated-triangle > .fa::after {
+	content: "\f071";
+}
+
+.animated-triangle i{
+	position: relative;
+}
+
+.animated-triangle > .fa::after {
+
+	animation: ripple-1 1s infinite ease-in-out;
+	animation-delay: 0.5s;
+	animation: ripple-2 1s infinite ease-in-out;
+	animation-delay: 0.75s;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+@keyframes ripple-1 {
+	0% {
+		transform: scale(1);
+		opacity: 1;
+	}
+	100% {
+		transform: scale(1.7);
+		opacity: 0;
+	}
+}
+
+@keyframes ripple-2 {
+	0% {
+		transform: scale(1);
+		opacity: 1;
+	}
+
+	100% {
+		transform: scale(2);
+		opacity: 0;
+	}
+}
