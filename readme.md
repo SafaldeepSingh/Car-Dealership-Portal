@@ -1,7 +1,9 @@
 # Car Dealership Portal
 
 ![seanautosales com_vehicles](https://user-images.githubusercontent.com/89362925/159989725-6472a26e-035d-4097-9d33-c9dd602d0330.png)
-=========================================================================================================================================================
+
+## Navbar Menu
+
 ![Screenshot (230)](https://user-images.githubusercontent.com/89362925/159991919-59ab4704-a4a4-4be6-bf87-4a4f295599ab.png)
 
 
